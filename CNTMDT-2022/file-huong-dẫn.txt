@@ -1,0 +1,8 @@
+1./ Tải Xampp
+2./ Vào phpmyadmin -> import database
+3./ Vào file .env ( đường dẫn shop/.env) thay đổi
+DB_DATABASE=db_banhang
+DB_USERNAME=root
+DB_PASSWORD=
+4./ Lưu lại 
+5./ Bật Xampp -> vào trình duyệt gõ http://localhost:8080/shop/public
